@@ -19,6 +19,6 @@ Este es un juego clásico de Tic Tac Toe o Tres en Raya desarrollado con `Pygame
    ```bash
    pip install pygame
    
-##Desarrollado por
+## Desarrollado por
 Santiago Guzman Garcia
 (guia para el desarrolo e imagenes del canal de youtube: Pildoras de programación) https://www.youtube.com/@pildorasdeprogramacion
