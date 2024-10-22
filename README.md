@@ -10,7 +10,7 @@ Este es un juego clásico de Tic Tac Toe o Tres en Raya desarrollado con `Pygame
 - Interfaz gráfica creada con la biblioteca `Pygame`.
 
 ## Requisitos
-- Python 3.x
+- Python 3.11 en adelante.
 - Biblioteca `Pygame`
 
 ## Instalación
